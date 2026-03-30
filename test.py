@@ -1,5 +1,4 @@
 def main(num):
-    print("Hello world")
     pass
 
 def seconf_f():
