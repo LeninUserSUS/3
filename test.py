@@ -7,5 +7,4 @@ def seconf_f():
     res = int(input())
     pass
     
-# main(res)
 
