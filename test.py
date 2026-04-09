@@ -8,3 +8,6 @@ def seconf_f():
     pass
     
 
+def print_massage():
+    print(Hello, world)
+    pass
