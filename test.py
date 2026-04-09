@@ -11,3 +11,8 @@ def seconf_f():
 def print_massage():
     print(Hello, world)
     pass
+
+def test():
+    if(num == 2):
+        print("2")
+    pass
